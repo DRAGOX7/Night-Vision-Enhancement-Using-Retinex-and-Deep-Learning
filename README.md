@@ -18,7 +18,7 @@ Low-Light-Enhancement/
 │ └── lol_enhancer.pth.zip
 │
 ├── results/
-│
+│        
 ├── src/
 │ ├── img_project_dark.m
 │ └── run_lol_enhancer.py
@@ -113,13 +113,16 @@ A trained neural network model for low-light enhancement.
 # 🖼 Results
 
 ## Original Dark Image
-
+![Original Image](results/original.png)
 
 ## Classical Enhancement (Color Retinex)
-(Add your image here)
+![Retinex Result](results/retinex.png)
+
+## Night Enhancement
+![Night Result](results/enhanced.png)
 
 ## Deep Learning Enhancement
-(Add your image here)
+![Deep Learning Result](results/deep_learning.png)
 
 ---
 

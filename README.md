@@ -193,21 +193,11 @@ MIT License
 # 👤 Author
 
 Abdullah
+----------------------
 AI & Computer Vision Enthusiast  
 ```
 
----
 
-# 🔥 Next Step (Important)
-
-Now:
-
-1. Add 2–3 comparison images inside `/results`
-2. Replace "(Add your image here)" with:
-
-```markdown
-![Deep Learning Result](results/dl_result.png)
-```
 
 
 

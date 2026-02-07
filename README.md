@@ -116,13 +116,13 @@ A trained neural network model for low-light enhancement.
 ![Original Image](results/original.png)
 
 ## Classical Enhancement (Color Retinex)
-![Retinex Result](results/retinex.png)
+![Retinex Result](results/retenex.png)
 
 ## Night Enhancement
 ![Night Result](results/enhanced.png)
 
 ## Deep Learning Enhancement
-![Deep Learning Result](results/deep_learning.png)
+![Deep Learning Result](results/deep learning.png)
 
 ---
 

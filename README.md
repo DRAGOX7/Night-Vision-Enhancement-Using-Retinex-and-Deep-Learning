@@ -113,22 +113,12 @@ A trained neural network model for low-light enhancement.
 | Deep Learning | High | Low | High | Natural |
 
 ---
+## 🖼 Results
 
-# 🖼 Results
+| Original | Classical (Retinex) | Night Enhancement | Deep Learning |
+|----------|---------------------|---------------------|---------------|
+| ![](results/original.png) | ![](results/retenex.png) | ![](results/enhanced.png)| ![](results/deep_learning.png) |
 
-## Original Dark Image
-![Original Image](results/original.png)
-
-## Classical Enhancement (Color Retinex)
-![Retinex Result](results/retenex.png)
-
-## Night Enhancement
-![Night Result](results/enhanced.png)
-
-## Deep Learning Enhancement
-![Deep Learning Result](results/deep_learning.png)
-
----
 
 # 🚀 How to Run
 
